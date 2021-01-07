@@ -1,6 +1,6 @@
 # Create an Administration Panel for the Places API
 
-This project is a frontend supplement for the Places API [Places API](https://github.com/gulangurman/PlacesAPI).
+This project is a frontend supplement for the [Places API](https://github.com/gulangurman/PlacesAPI).
 
 ## Available Scripts
 
